@@ -4,7 +4,7 @@
 ### ❓ Who I am
 - 📓 **PhD student in computer science**, using AI to predict the onset of chronic diseases
 - 🖥️ **At work, I'm interested in**: Managing Data Science projects, Teaching and Science Popularization, Object-Oriented Development, Data Science, and well-documented git repos ;)
-- 🎨 **At home, I'm interested in**: Art (traditional and digital), Writing, Japanese Pop Culture, Video Games
+- 🎨 **At home, I'm interested in**: Art (traditional and digital), Writing, Japanese Pop Culture (I'm actively learning the language!), Video Games
 
 ### 🗺️ Where to find me
 Feel free to reach out if you want to discuss any of my projects, ask about my research, or just show off pictures of your cat 🐈
