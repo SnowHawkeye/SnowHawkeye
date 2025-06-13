@@ -36,10 +36,9 @@ Feel free to reach out if you want to discuss any of my projects, ask about my r
   - Notion, Jira, Clickup
   - Google suite (Docs / Slides / Sheets) and their MicroSoft equivalents
 - ✍️ **Currently Interested in Learning**
-  - Godot
-  - Streamlit
   - Docker
-  - Hosting apps on AWS
+  - AWS
+  - MLFlow
 
 ### :atom: Research
 - **Main research field**: Artificial Intelligence for Predictive Analysis of Diseases from Biological Data
