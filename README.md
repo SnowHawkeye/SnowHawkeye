@@ -13,6 +13,7 @@ Feel free to reach out if you want to discuss any of my projects, ask about my r
 
 ### 📽️ Spotlight on some of my projects
 - [A Python framework for the early prediction of diseases](https://github.com/SnowHawkeye/mipha), which I actively work on for my PhD.
+- [An LLM-based media recommender system](https://github.com/IcyJam/osusume/tree/databases-setup), with a prototype deployable via docker compose.
 - [An introduction course on data science](https://github.com/SnowHawkeye/introduction-to-data-science), taught at École Centrale de Lille at master's degree level.
 - [A Discord bot to set alarms](https://github.com/mu-ns/ffxiv-subs-bot), a fun side-project I contributed to.
 
@@ -35,8 +36,8 @@ Feel free to reach out if you want to discuss any of my projects, ask about my r
   - Photoshop & Clip Studio Paint
   - Notion, Jira, Clickup
   - Google suite (Docs / Slides / Sheets) and their MicroSoft equivalents
-- ✍️ **Currently Interested in Learning**
   - Docker
+- ✍️ **Currently Interested in Learning**
   - AWS
   - MLFlow
 
