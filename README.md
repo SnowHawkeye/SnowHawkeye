@@ -22,7 +22,7 @@ Feel free to reach out if you want to discuss any of my projects, ask about my r
 - 🌐 **Languages**
   - English (fluent)
   - French (native)
-  - Japanese (self-taught beginner)
+  - Japanese (self-taught beginner, WaniKani lv.60)
   - German (notions)
 - ⌨️ **Programming Languages**
   - Python (incl. Data Science libraries and unit testing)
@@ -39,8 +39,7 @@ Feel free to reach out if you want to discuss any of my projects, ask about my r
   - Google suite (Docs / Slides / Sheets) and their MicroSoft equivalents
   - Docker
 - ✍️ **Currently Interested in Learning**
-  - AWS, Azure & other cloud solutions
-  - MLFlow
+  - Godot
 
 ### :atom: Research
 - **PhD research field**: Artificial Intelligence for Predictive Analysis of Diseases from Biological Data
